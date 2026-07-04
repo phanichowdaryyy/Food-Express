@@ -51,10 +51,10 @@ src/
 ├── integrations/
 ├── App.tsx
 └── main.tsx
+
 ---
 
 ## ⚙️ Installation & Setup
-
 
 ### 1. Clone the repository
 
@@ -75,7 +75,7 @@ http://localhost:5173
 📦 Build for Production
 npm run build 
 
-___
+---
 
 🚀 Deployment
 🔵 Vercel (Recommended)
@@ -86,6 +86,7 @@ Import project
 Click Deploy
 Done 🎉🎉
 
+---
 
 📌 Future Improvements
 Payment gateway integration
@@ -94,16 +95,23 @@ Real-time order tracking
 Admin dashboard
 API integration for restaurants
 
+---
+
 👨‍💻 Author
 GUNTUPALLI PHANINDHRA KUMAR
 GitHub: phanichowdaryyy
 Project: Food Express
+
+---
 
 ⭐ Support
 If you like this project:
 ⭐ Star this repo
 🍴 Fork it
 🚀 Share it
+
+
+---
 
 📜 License
 This project is for educational and portfolio purposes.
