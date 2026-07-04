@@ -40,14 +40,14 @@ Designed as a clean, production-ready UI for restaurant browsing, ordering, and 
 
 ## 📂 Project Structure
 src/
-├── components/ # Reusable UI components
-├── pages/ # Application pages (Home, Checkout, etc.)
-├── context/ # Cart & global state
-├── hooks/ # Custom React hooks
-├── lib/ # Utility functions
-├── integrations/ # Supabase integration
-├── App.tsx # Main app structure
-└── main.tsx # Entry point
+├── components/ 
+├── pages/ 
+├── context/ 
+├── hooks/ 
+├── lib/ 
+├── integrations/ 
+├── App.tsx 
+└── main.tsx 
 
 ---
 
@@ -97,6 +97,7 @@ Project: Food Express
 
 ⭐ Show Your Support
 If you like this project:
+
 ⭐ Star the repository
 🍴 Fork it
 🚀 Share it
