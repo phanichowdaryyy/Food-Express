@@ -1,69 +1,105 @@
-# Welcome to your Lovable project
+# 🍔 Food Express – Modern Food Delivery Web App
 
-## Project info
+A modern, responsive food delivery web application built with **React, Vite, TypeScript, Tailwind CSS, and shadcn/ui**.  
+Designed as a clean, production-ready UI for restaurant browsing, ordering, and checkout experience.
 
-**URL**: https://lovable.dev/projects/6acf918d-6c61-4a3f-9e77-54918e5e729e
+---
 
-## How can I edit this code?
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 📸 Preview
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6acf918d-6c61-4a3f-9e77-54918e5e729e) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
+---
+## ✨ Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- 🍕 Beautiful modern UI for food ordering
+- 🏪 Restaurant listing & detailed pages
+- 🛒 Cart system with state management
+- 🔐 Authentication pages (Login / Signup UI)
+- 📦 Order checkout flow UI
+- 🎯 Responsive design (Mobile + Desktop)
+- ⚡ Fast performance using Vite
+- 🎨 Clean UI using Tailwind CSS + shadcn/ui components
+- 🔍 Category-based filtering system
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **Frontend:** React + TypeScript
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS
+- **UI Components:** shadcn/ui
+- **State Management:** React Context API
+- **Backend (optional integration):** Supabase
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 📂 Project Structure
+src/
+├── components/ # Reusable UI components
+├── pages/ # Application pages (Home, Checkout, etc.)
+├── context/ # Cart & global state
+├── hooks/ # Custom React hooks
+├── lib/ # Utility functions
+├── integrations/ # Supabase integration
+├── App.tsx # Main app structure
+└── main.tsx # Entry point
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the repository
+git clone https://github.com/phanichowdaryyy/Food-Express.git
+
+2. Move into project directory
+cd Food-Express
+
+4. Install dependencies
+npm install
+
+6. Run development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+App will run at:
+http://localhost:5173
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+📦 Build for Production
+npm run build
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🚀 Deployment
+This project can be easily deployed using:
+🔵 Vercel (Recommended)
+🟢 Netlify
+Vercel Steps:
+Connect GitHub repo
+Import project
+Click Deploy
+Done 🎉
 
-## What technologies are used for this project?
 
-This project is built with .
+📌 Future Improvements
+Payment gateway integration
+Backend order management system
+Real-time order tracking
+Admin dashboard
+API integration for restaurants
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+👨‍💻 Author
+GUNTUPALLI PHANINDHRA KUMAR
+GitHub: phanichowdaryyy
+Project: Food Express
 
-## How can I deploy this project?
+⭐ Show Your Support
+If you like this project:
+⭐ Star the repository
+🍴 Fork it
+🚀 Share it
 
-Simply open [Lovable](https://lovable.dev/projects/6acf918d-6c61-4a3f-9e77-54918e5e729e) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+📜 License
+This project is for educational and portfolio purposes.
