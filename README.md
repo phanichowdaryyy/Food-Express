@@ -5,14 +5,17 @@ Designed as a clean, production-ready UI for restaurant browsing, ordering, and 
 
 ---
 
+## 🚀 Live Demo
+👉 https://nextjs-boilerplate-g5v667ok2-phani-chowdary.vercel.app
 
 ---
 
 ## 📸 Preview
 
-
+> Add screenshots here (recommended)
 
 ---
+
 ## ✨ Features
 
 - 🍕 Beautiful modern UI for food ordering
@@ -22,38 +25,39 @@ Designed as a clean, production-ready UI for restaurant browsing, ordering, and 
 - 📦 Order checkout flow UI
 - 🎯 Responsive design (Mobile + Desktop)
 - ⚡ Fast performance using Vite
-- 🎨 Clean UI using Tailwind CSS + shadcn/ui components
+- 🎨 Clean UI using Tailwind CSS + shadcn/ui
 - 🔍 Category-based filtering system
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React + TypeScript
-- **Build Tool:** Vite
-- **Styling:** Tailwind CSS
-- **UI Components:** shadcn/ui
-- **State Management:** React Context API
-- **Backend (optional integration):** Supabase
+- **Frontend:** React + TypeScript  
+- **Build Tool:** Vite  
+- **Styling:** Tailwind CSS  
+- **UI Components:** shadcn/ui  
+- **State Management:** React Context API  
+- **Backend (optional):** Supabase  
 
 ---
 
 ## 📂 Project Structure
 src/
-├── components/ 
-├── pages/ 
-├── context/ 
-├── hooks/ 
-├── lib/ 
-├── integrations/ 
-├── App.tsx 
-└── main.tsx 
-
+├── components/
+├── pages/
+├── context/
+├── hooks/
+├── lib/
+├── integrations/
+├── App.tsx
+└── main.tsx
 ---
 
 ## ⚙️ Installation & Setup
 
+
 ### 1. Clone the repository
+
 git clone https://github.com/phanichowdaryyy/Food-Express.git
 
 2. Move into project directory
@@ -69,18 +73,18 @@ App will run at:
 http://localhost:5173
 
 📦 Build for Production
-npm run build
+npm run build 
 
+___
 
 🚀 Deployment
-This project can be easily deployed using:
 🔵 Vercel (Recommended)
 🟢 Netlify
 Vercel Steps:
 Connect GitHub repo
 Import project
 Click Deploy
-Done 🎉
+Done 🎉🎉
 
 
 📌 Future Improvements
@@ -95,10 +99,9 @@ GUNTUPALLI PHANINDHRA KUMAR
 GitHub: phanichowdaryyy
 Project: Food Express
 
-⭐ Show Your Support
+⭐ Support
 If you like this project:
-
-⭐ Star the repository
+⭐ Star this repo
 🍴 Fork it
 🚀 Share it
 
